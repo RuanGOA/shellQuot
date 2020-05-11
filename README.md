@@ -1,17 +1,20 @@
-# Quotation in the shell
+# Cotação no shell
 
-Automates the search for quotation. :grin:
+Facilita a busca por cotação das principais moedas, 
+usando dados atualizados a cada 30 segundos. :grin:
 
-### Installation
+### Instalação
 
-Installation is required first.
-In the folder, type:
-> sh install.sh
+Para facilitar o uso, será adicionado um alias no *~/.bashrc*
+nomeado como **quot**.  
+Para fazer isso, na pasta do repositório digite:  
+> sh install.sh  
 
-### Use
+### Uso
 
-- To see the standard quotes (USD, EUR, ARS, BTC), type:
-> quot
+- Para ver as cotações das moedas padrão(USD, EUR, ARS, BTC),
+digite:  
+> quot  
 
-- To select quotes, type:
-> quot USD EUR ARS BTC
+- Para ver apenas cotações selecionadas, faça como no exemplo:
+> quot USD EUR  
