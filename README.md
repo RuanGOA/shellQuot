@@ -7,8 +7,9 @@ usando dados atualizados a cada 30 segundos. :grin:
 
 Para facilitar o uso, será adicionado um alias no *~/.bashrc*
 nomeado como **quot**.  
-Para fazer isso, na pasta do repositório digite:  
+Para fazer isso, na pasta do repositório execute:  
 > sh install.sh  
+Após isso, reinicie o terminal.
 
 ### Uso
 
