@@ -9,9 +9,7 @@ Para facilitar o uso, será adicionado um alias no *~/.bashrc*
 nomeado como **quot**.  
 Para fazer isso, na pasta do repositório execute:  
 
-> sh install.sh  
-
-Após isso, reinicie o terminal.
+> bash install.sh  
 
 ### Uso
 
